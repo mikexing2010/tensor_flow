@@ -1,0 +1,5 @@
+This code is broken without data input and there are also a several areas where the code is hard coded.
+
+Some work will be needed to get the code to work again. Just thinking on top of my head.
+1. Need to install the right packages. Use a virtual environment.
+2. Run through the code and just start debugging.
